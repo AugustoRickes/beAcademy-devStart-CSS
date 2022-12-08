@@ -1,2 +1,2 @@
 # beAcademy-devStart-CSS
-Conhecendo o CSS
+Conhecendo o CSS Origem do CSS Fluxo de leitura e Especificidade At Rules e Combinators Shorthand e Margin Vendor Prefix Unidade de medidas Dicas para Design Responsivo Page Layout - Positions Page Layout - Entendendo o Display e Flex Page Layout - Grid Colors e background A beleza dos textos Pseudo Class e Element Parte I Pseudo Class e Element Parte II Pseudo Class e Element Parte III Design responsivo
